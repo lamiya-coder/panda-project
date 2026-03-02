@@ -2,14 +2,21 @@
   margin: 0;
   padding: 10px;
 }
-
+.websit {
+  margin: auto;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+}
 .logo-manue {
   height: 100px;
   display: flex;
   justify-content: space-between;
 }
 .introw {
-  width: 1200px;
+  width: 100%;
   margin: auto;
   background-color: bisque;
   display: flex;
@@ -21,4 +28,73 @@
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
+}
+.categore {
+  width: 100%;
+  margin: auto;
+}
+.c {
+  height: 100px;
+  display: flex;
+  width: 25%;
+  justify-content: space-between;
+  align-items: center;
+}
+.ca {
+  width: 1280;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.w {
+  background-color: orange;
+}
+.b {
+  background-color: #ff08bd;
+}
+.s {
+  background-color: #4f0bd6;
+}
+.shoes {
+  width: 1280;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.snoe {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: solid black;
+  padding: 10px;
+}
+.bag {
+  width: 1280;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bagw {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: solid black;
+  padding: 10px;
+}
+.blank {
+  width: 100%;
+  height: 100px;
+}
+.last {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: pink;
+  height: 400px;
 }
