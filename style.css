@@ -191,6 +191,8 @@
   .websit {
     max-width: 400px;
     width: 100%;
+    margin: auto;
+    padding: 10px;
   }
   /* * {
     width: auto;
