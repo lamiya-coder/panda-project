@@ -43,6 +43,7 @@
   border: solid bisque;
   border-radius: 20px;
   padding: 20px;
+  margin-bottom: 40px;
 }
 .p {
   width: 50%;
@@ -66,8 +67,9 @@
 .categore {
   width: 100%;
   padding: 50px 0;
-  margin: 0 auto;
+  /* margin: 0 auto; */
   gap: 20px;
+  margin-bottom: 40px;
 }
 .c {
   height: 100px;
@@ -111,7 +113,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 40px auto;
+  /* margin: 40px auto; */
+  margin-bottom: 40px;
 }
 .snoe {
   width: 30%;
@@ -136,12 +139,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 40px auto;
+  /* margin: 40px auto; */
+  margin-bottom: 40px;
 }
 
 .bagw {
   width: 30%;
-  margin: 0 auto;
+  /* margin: 0 auto; */
   display: flex;
   gap: 20px 10px;
 
